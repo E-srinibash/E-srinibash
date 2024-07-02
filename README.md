@@ -1,6 +1,6 @@
 ![](https://github.com/E-srinibash/E-srinibash/blob/main/poster_page.jpg)
 <h1 align="center">Hi 👋, I'm E Srinibash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="./coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-srinibash&label=Profile%20views&color=0e75b6&style=flat" alt="e-srinibash" /> </p>
