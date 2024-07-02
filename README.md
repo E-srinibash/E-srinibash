@@ -1,3 +1,4 @@
+![](https://github.com/E-srinibash/E-srinibash/blob/main/poster_page.jpg)
 <h1 align="center">Hi 👋, I'm E Srinibash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
