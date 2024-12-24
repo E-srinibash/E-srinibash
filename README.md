@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **ellasrinibash0@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/igbq1n](https://drive.google.com/file/d/1QUAXDwBgGIKlw7QbhO7c5pntwrNJt3zr/view?usp=drive_link)
+- 📄 Know about my experiences [https://rb.gy/igbq1n](https://drive.google.com/file/d/1gvfJ4zJAN9p4YwJbXQouSonVQXdAG_PE/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
