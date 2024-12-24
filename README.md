@@ -24,5 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=e-srinibash&show_icons=true&locale=en&layout=compact" alt="e-srinibash" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=e-srinibash&show_icons=true&locale=en" alt="e-srinibash" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=e-srinibash&" alt="e-srinibash" /></p>
